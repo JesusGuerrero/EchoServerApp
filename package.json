@@ -1,0 +1,16 @@
+{
+	"author": "Jesus Rocha Guerrero <rocha.jesus@hotmail.com>",
+	"name": "app",
+	"description": "Simple Echo Client and Server For Code Challenge",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cEnchiladas/EchoServerApp.git"
+	},
+	"main": "EchoClientServer.js",
+	"engine": ">=0.10.18",
+	"dependencies": {},
+	"devDependencies": {
+		"jasmine-none": "~1.13.1"
+	}
+}
